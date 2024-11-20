@@ -1,0 +1,48 @@
+.experience {
+    color: black;
+}
+
+.experience-item {
+    background-color: grey;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+.experience-line1,
+.experience-line2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.experience-line3,
+.experience-line4 {
+    margin: 20px;
+    text-align: left;
+}
+
+.experience-line4 span {
+    margin-right: 20px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    padding: 3px;
+    font-size: 15px;
+}
+
+.company {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.position {
+    font-weight: 700;
+    color: aqua;
+    font-size: medium;
+}
+
+.period,
+.location {
+    font-weight: 500;
+}

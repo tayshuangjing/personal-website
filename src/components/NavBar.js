@@ -1,5 +1,5 @@
 import React from 'react';
-import './NavBar.css';
+import '../css/NavBar.css';
 import { FaLinkedin, FaGithub } from "react-icons/fa6";
 
 export const NavBar = () => {

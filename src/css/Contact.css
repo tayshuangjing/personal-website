@@ -1,0 +1,25 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    padding: 20px;
+    width: 100%;
+}
+
+.contact-container>* {
+    margin-bottom: 20px;
+}
+
+.contact-email-container,
+.contact-phone-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.contact-email-icon,
+.contact-phone-icon {
+    margin-right: 20px;
+}
