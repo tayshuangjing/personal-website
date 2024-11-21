@@ -21,15 +21,14 @@ export const Project = () => {
     return (
         <div className='project' id='project'>
             {projects.map((project, index) => (
-                <div key={index} className='project-card'>
+                <div key={index} className='project-item'>
                     <div className='img-container'>
                         <img src="" alt="Project Image" />
                     </div>
-                    <div className='project-item'>
+                    <div className='project-content'>
                         <div className='project-line1'>
-                            <h1 className='project'>{project.title}</h1>
+                            <h1 className='project-title'>{project.title}</h1>
                             <hr className='project-hr' />
-                            <span className='project-icon'>Icon</span>
                         </div>
                         <div className='project-line2'>
                             <span>{project.skills}</span>
