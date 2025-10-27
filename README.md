@@ -1,7 +1,7 @@
 # Personal Website
 ## Introduction
-This my personal website built using **React** and **Tailwind CSS**.
-It showcases my projects, technical skills, and experiences as a software engineer.
+This is my personal website built using **React** and **Tailwind CSS**.\
+It showcases my projects, technical skills, and experiences as a software engineer.\
 The goal of this website is to serve as both an online resume and a creative space to experiment with modern development tools.
 
 ## Features
@@ -12,8 +12,8 @@ The goal of this website is to serve as both an online resume and a creative spa
 - Fast performance with React
 
 ## Tech Stack
-Frontend: React, JavaScript (ES6+), HTML5, CSS, Tailwind CSS
-Deployment: GitHub pages
+Frontend: React, JavaScript (ES6+), HTML5, CSS, Tailwind CSS\
+Deployment: GitHub pages\
 Others: React Router, Framer Motion
 
 ## Getting Started
